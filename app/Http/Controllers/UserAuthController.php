@@ -105,9 +105,3 @@ class UserAuthController extends Controller
 
 
 
-// if ($mod->roles ='user'){
-//     return redirect(url('user'));
-// }
-// else{
-//     return redirect(url('admin'));
-// }
