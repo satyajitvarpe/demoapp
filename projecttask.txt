@@ -1,0 +1,7 @@
+1=create login system
+	a)define database strucure
+		1)database name=exam_db
+		2)create maigration
+	b)define user role
+	c)create user specifice dashboard
+	d)
